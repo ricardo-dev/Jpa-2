@@ -79,5 +79,4 @@ public class JavaEstudoJpa2Application {
 		p3.setCategoria(categoria);
 		this.produtoRepository.save(p3);
 	}
-
 }
